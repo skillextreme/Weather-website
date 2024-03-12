@@ -30,4 +30,4 @@ You need to have a modern web browser installed (Chrome, Firefox, Safari, Edge).
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   https://github.com/skillextreme/Weather-website.git
